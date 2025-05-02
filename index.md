@@ -23,3 +23,9 @@ let myVariable = "Hello, Snoopy!";
 ```
 
 <!--I added a code snippet.-->
+
+- [] Create a new list
+- [] Add a few list items
+- [] Pass this activity
+
+<!--I added a list.-->
